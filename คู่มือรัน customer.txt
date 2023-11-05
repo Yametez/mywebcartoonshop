@@ -1,0 +1,3 @@
+1รันconnect
+2รันconnectdb
+3รันcreatetablemember
