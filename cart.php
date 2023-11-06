@@ -54,7 +54,7 @@ include 'connect.php';
                 <tr> 
                     <td><?=$m?></td>
                     <td>
-                        <img src="img/<?=$row_pro['book_image']?>" width="80" height="100" class="border">
+                        <img src="admin\img/<?=$row_pro['book_image']?>" width="80" height="100" class="border">
                         <?=$row_pro['book_name']?>
                     </td>
                     <td><?=$row_pro['price']?></td>
